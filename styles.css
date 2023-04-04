@@ -39,7 +39,7 @@ h1 a{font-family: starwarsh;text-align: center;}
 /* main */
 main{width: 100%;}
 body{margin: 0;width: 100%;}
-div{height: 46vh;display:block;width:100%;margin-top:-19px}
+div{height: 46.8vh;display:block;width:100%;margin-top:-19px}
 #fear{background-image:url(fear.png);background-size: cover;background-repeat: no-repeat;background-position:right;}
 #anger{background-image:url(anger.jpg);background-size:cover;background-repeat: no-repeat;background-position:0; }
 .anger{margin-left: 33%;}
